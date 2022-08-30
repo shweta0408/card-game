@@ -20,7 +20,7 @@ function newCount(){
 
 function anotherCount(){
    //loop to count from 0 to 100
-    for(let i=10 ;  i<101 ;  i+=10){
+    for(let i=15 ;  i<101 ;  i+=10){
         console.log(i)
     }
 }
